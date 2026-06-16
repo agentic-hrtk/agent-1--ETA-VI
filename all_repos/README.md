@@ -1,6 +1,4 @@
-# All Repositories
-
-This directory contains the code from all private repositories owned by agentic-hrtk.
+This directory contains copies of all private repositories owned by agentic-hrtk.
 
 - [auth-service](https://github.com/agentic-hrtk/auth-service)
 - [customer-data-pipeline](https://github.com/agentic-hrtk/customer-data-pipeline)
